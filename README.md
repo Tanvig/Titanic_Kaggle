@@ -1,2 +1,2 @@
-# Titanic_Kaggle
+# Titanic Dataset Analysis using Logistic Regression
  
